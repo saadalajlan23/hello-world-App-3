@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         var num1 = Random.nextInt(10)
         var num2 = Random.nextInt(10)
         var add = sum(num1, num2)
-
+// This is test for Github
         println("Hello sum $num1 + $num2 =   $add")
         if (num1 > num2) {
             println("$num1 is bigger than $num2")
